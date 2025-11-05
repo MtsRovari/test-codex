@@ -1,0 +1,156 @@
+{
+  "common": {
+    "skipToContent": "Ir al contenido",
+    "language": "Idioma",
+    "darkMode": "Cambiar modo oscuro",
+    "save": "Guardar",
+    "saved": "Guardado",
+    "downloadChecklist": "Descargar checklist",
+    "viewAll": "Ver todo",
+    "search": "Buscar",
+    "close": "Cerrar",
+    "comingSoon": "Próximamente",
+    "learnMore": "Saber más",
+    "updated": "Última actualización",
+    "disclaimer": "Información solo de referencia. Confirme siempre con fuentes oficiales.",
+    "favoriteCountry": "Guardar país",
+    "favoriteVisa": "Guardar visa",
+    "popularTopics": "Temas populares",
+    "noResults": "Sin resultados",
+    "loading": "Cargando"
+  },
+  "nav": {
+    "home": "Inicio",
+    "countries": "Países",
+    "topics": "Temas",
+    "account": "Cuenta",
+    "disclaimer": "Aviso legal",
+    "privacy": "Privacidad",
+    "terms": "Términos"
+  },
+  "home": {
+    "title": "Visas claras para cada viajero",
+    "subtitle": "Explora requisitos, tiempos y entrevistas en un solo lugar.",
+    "searchPlaceholder": "Busca países, visas, temas...",
+    "browseCountries": "Explorar países",
+    "eligibilityWizard": {
+      "title": "Encuentra tus opciones",
+      "subtitle": "Responde rápido para ver visas y guías relevantes.",
+      "nationality": "Nacionalidad",
+      "residence": "País de residencia",
+      "purpose": "Propósito del viaje",
+      "ancestry": "Ascendencia",
+      "ancestryHelp": "Selecciona ascendencias que puedan darte beneficios.",
+      "showResults": "Mostrar recomendaciones",
+      "resultsTitle": "Visas y temas recomendados",
+      "purposeOptions": {
+        "tourism": "Turismo",
+        "business": "Negocios",
+        "study": "Estudio",
+        "work": "Trabajo",
+        "transit": "Tránsito",
+        "family": "Familia"
+      }
+    }
+  },
+  "homeSections": {
+    "wizardTitle": "Asistente de elegibilidad",
+    "wizardSubtitle": "Conoce qué visas y guías encajan con tu perfil.",
+    "countriesTitle": "Explorar países",
+    "countriesSubtitle": "Empieza con el ejemplo detallado de Estados Unidos y agrega tus propios datos.",
+    "topicsTitle": "Guías destacadas",
+    "topicsSubtitle": "Editores actualizan estos temas según los viajeros.",
+    "popularSubtitle": "Viajeros están revisando estos temas sobre visas de EE. UU."
+  },
+  "countries": {
+    "title": "Países",
+    "searchPlaceholder": "Filtrar países...",
+    "visas": "Tipos de visa",
+    "topics": "Temas del país",
+    "consulates": "Consulados y Embajadas",
+    "saveCountry": "Guardar este país",
+    "overview": "Visión general",
+    "visaList": "Listado de visas",
+    "visaInsights": "Información de visas",
+    "visaTypeSubtitle": "Explora guías detalladas para estas categorías.",
+    "popularSubtitle": "Estos guías son marcados con frecuencia por viajeros que investigan este país.",
+    "listDescription": "Amplía esta lista agregando nuevos elementos en data/countries.json.",
+    "visaListDescription": "Filtra por propósito o requisitos para encontrar la visa ideal para tu viaje.",
+    "filters": {
+      "purpose": "Propósito",
+      "tags": "Etiquetas",
+      "clear": "Limpiar filtros",
+      "all": "Todo",
+      "purposeOptions": {
+        "business": "Negocios",
+        "tourism": "Turismo",
+        "study": "Estudio",
+        "work": "Trabajo",
+        "exchange": "Intercambio"
+      },
+      "tagOptions": {
+        "interview-required": "Entrevista obligatoria",
+        "biometric": "Biometría",
+        "premium-processing": "Procesamiento premium"
+      }
+    }
+  },
+  "visa": {
+    "overview": "Resumen",
+    "eligibility": "Elegibilidad",
+    "documents": "Documentos",
+    "documentsInterview": "Para la entrevista",
+    "documentsForms": "Para los formularios",
+    "fees": "Tarifas",
+    "timelines": "Tiempos",
+    "steps": "Pasos",
+    "interviewTips": "Consejos para la entrevista",
+    "afterDenial": "Si es negada",
+    "faqs": "Preguntas frecuentes",
+    "premium": "Contenido premium",
+    "checklist": "Descargar checklist",
+    "ctaConsulting": "Reservar consultoría",
+    "ctaPremium": "Activar premium",
+    "notes": "Notas"
+  },
+  "account": {
+    "title": "Tu cuenta",
+    "subtitle": "Inicio de sesión próximamente. Guarda favoritos y guías aquí.",
+    "favorites": "Guardados"
+  },
+  "search": {
+    "results": "Resultados de búsqueda",
+    "tabs": {
+      "all": "Todo",
+      "countries": "Países",
+      "visas": "Visas",
+      "topics": "Temas"
+    },
+    "placeholder": "¿Qué buscas?",
+    "summary": "{count, plural, one {# resultado para “{query}”} other {{count} resultados para “{query}”}}"
+  },
+  "topics": {
+    "title": "Temas",
+    "description": "Contenidos profundos para solicitantes de visa estadounidense. Agrega temas por país en data/topics.",
+    "mostRead": "Más leídos"
+  },
+  "premium": {
+    "title": "Guía premium",
+    "description": "Estamos preparando guías completas, plantillas y entrevistas simuladas. Únete a la lista de espera.",
+    "waitlist": "Unirme"
+  },
+  "legal": {
+    "disclaimer": {
+      "title": "Aviso legal",
+      "body": "La información de este sitio es orientativa y no constituye asesoría legal. Las políticas de visa pueden cambiar sin aviso. Verifica siempre con fuentes oficiales."
+    },
+    "privacy": {
+      "title": "Aviso de privacidad",
+      "body": "Respetamos tu privacidad. Esta versión no recopila datos personales más allá de preferencias locales."
+    },
+    "terms": {
+      "title": "Términos de uso",
+      "body": "Al usar este sitio aceptas que la información se brinda tal cual, sin garantías. Debes verificar los requisitos oficiales."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "slug": "usa",
+    "name": "United States",
+    "iso2": "US",
+    "iso3": "USA",
+    "flagEmoji": "🇺🇸",
+    "lastUpdated": "2025-03-15",
+    "overview": {
+      "summary": "Travel to the United States typically requires a visa for most nationalities, with specific processes depending on your travel purpose.",
+      "notes": [
+        "Citizens of Visa Waiver Program countries may qualify for ESTA for short visits.",
+        "Brazilian nationals generally require a visa interview unless renewing under interview waiver programs."
+      ]
+    },
+    "visaTypes": ["b1", "b2", "f1", "j1"],
+    "topics": [
+      "ds160-basics",
+      "interview-prep",
+      "common-mistakes",
+      "ties-to-home",
+      "photo-specs",
+      "processing-times",
+      "status-tracking",
+      "after-denial"
+    ],
+    "consulates": [
+      {
+        "name": "U.S. Embassy Brasília",
+        "city": "Brasília",
+        "notes": "Handles most immigrant and nonimmigrant visa services."
+      },
+      {
+        "name": "Consulate General São Paulo",
+        "city": "São Paulo",
+        "notes": "High volume post with longer wait times during peak season."
+      },
+      {
+        "name": "Consulate General Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "notes": "Processes immigrant visas and nonimmigrant appointments."
+      }
+    ]
+  }
+]

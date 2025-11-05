@@ -1,0 +1,318 @@
+[
+  {
+    "code": "b1",
+    "name": "B1 — Business Visitor",
+    "summary": "Short-term business travel for meetings, conferences, and negotiations.",
+    "purpose": ["business"],
+    "atAGlance": {
+      "eligibility": "For business meetings, conferences, contract negotiations without local employment.",
+      "fee": "USD 185 consular fee",
+      "processing": "Interview wait + 2–3 weeks for document review",
+      "validity": "Usually up to 10 years for Brazilian nationals",
+      "entries": "Multiple entries"
+    },
+    "eligibility": [
+      "Intend to stay temporarily for legitimate business activities.",
+      "Maintain a residence outside the U.S. and strong ties proving return.",
+      "Have sufficient funds to cover expenses without U.S. income."
+    ],
+    "documents": {
+      "interview": [
+        "Valid passport with at least 6 months beyond stay.",
+        "DS-160 confirmation page and appointment letter.",
+        "Proof of employment, role, and salary.",
+        "Invitation letter or conference registration.",
+        "Evidence of strong ties (bank statements, property, family)."
+      ],
+      "forms": [
+        "Completed DS-160 online form.",
+        "MRV payment receipt.",
+        "Optional: company support letter summarizing travel purpose."
+      ]
+    },
+    "fees": [
+      { "name": "Application fee", "amount": 185, "currency": "USD", "notes": "Non-refundable" },
+      { "name": "Courier/Document return", "amount": 18, "currency": "USD", "notes": "Varies by location" }
+    ],
+    "timelines": {
+      "average": "2–5 months",
+      "notes": "Includes MRV wait, interview availability, and passport return. Peak seasons may exceed 6 months."
+    },
+    "steps": [
+      "Create profile on ustraveldocs and complete DS-160.",
+      "Pay MRV fee and keep receipt number.",
+      "Schedule CASV biometrics and embassy/consulate interview.",
+      "Attend biometrics appointment for fingerprints and photo.",
+      "Participate in visa interview with supporting evidence.",
+      "Track passport return via courier or pick-up instructions."
+    ],
+    "interviewTips": [
+      "Answer clearly and concisely about the business agenda.",
+      "Show proof of continuing employment and responsibilities in home country.",
+      "Carry translations of documents not in English."
+    ],
+    "afterDenial": [
+      "Review 214(b) refusal reasons and strengthen evidence of ties.",
+      "Obtain detailed invitation letters outlining meetings and sponsorship.",
+      "Reapply only when new information or stronger evidence is available."
+    ],
+    "faqs": [
+      {
+        "q": "Can I receive payment from a U.S. company on B1?",
+        "a": "No. Compensation must come from a non-U.S. source except reimbursement for incidental expenses."
+      },
+      {
+        "q": "Is an invitation letter required?",
+        "a": "It is recommended to demonstrate purpose, but not mandatory if other proof is provided."
+      },
+      {
+        "q": "How long can I stay per visit?",
+        "a": "CBP officers typically grant up to 6 months, but it may vary by case."
+      }
+    ],
+    "premium": {
+      "hasPremium": true,
+      "teaser": "Detailed scripts for business interviews and sample company support letters."
+    },
+    "tags": ["interview-required", "multiple-entry"],
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "code": "b2",
+    "name": "B2 — Tourist Visitor",
+    "summary": "Tourism, leisure travel, or medical treatment in the United States.",
+    "purpose": ["tourism", "family"],
+    "atAGlance": {
+      "eligibility": "Visits for tourism, family events, or medical care without U.S. employment.",
+      "fee": "USD 185 consular fee",
+      "processing": "Interview wait varies by post",
+      "validity": "Generally 10 years for Brazilian nationals",
+      "entries": "Multiple entries"
+    },
+    "eligibility": [
+      "Plan a temporary visit for pleasure or medical treatment.",
+      "Demonstrate ability to cover travel and medical costs.",
+      "Show ties to home country ensuring return."
+    ],
+    "documents": {
+      "interview": [
+        "Passport valid for six months beyond stay.",
+        "DS-160 confirmation and appointment letter.",
+        "Travel itinerary or proof of accommodation.",
+        "Financial statements proving funds.",
+        "For medical travel: letter from U.S. physician and payment arrangements."
+      ],
+      "forms": [
+        "DS-160 online form.",
+        "MRV fee receipt.",
+        "Medical documentation if seeking treatment."
+      ]
+    },
+    "fees": [
+      { "name": "Application fee", "amount": 185, "currency": "USD" },
+      { "name": "SEDEX return", "amount": 18, "currency": "USD", "notes": "Varies by courier" }
+    ],
+    "timelines": {
+      "average": "3–6 months",
+      "notes": "Appointment availability can extend beyond 8 months in high-demand posts."
+    },
+    "steps": [
+      "Submit DS-160 and upload compliant photo.",
+      "Pay MRV and schedule CASV + interview.",
+      "Attend biometrics appointment.",
+      "Prepare supporting evidence (ties, travel plan, finances).",
+      "Attend interview and respond honestly.",
+      "Wait for passport delivery with visa foil."
+    ],
+    "interviewTips": [
+      "Explain clearly who is paying for the trip and why.",
+      "Bring proof of previous travel if any.",
+      "If medical, show treatment plan and financial guarantees."
+    ],
+    "afterDenial": [
+      "Identify missing ties such as employment or property.",
+      "Gather documentation of social, financial, and family commitments.",
+      "Consider reapplying after significant changes (new job, assets)."
+    ],
+    "faqs": [
+      {
+        "q": "Do I need travel insurance?",
+        "a": "Not required but strongly recommended, especially for medical travel."
+      },
+      {
+        "q": "Can I study short courses on B2?",
+        "a": "Short recreational courses are allowed; full-time study requires F1/J1."
+      },
+      {
+        "q": "Can family accompany me to medical treatment?",
+        "a": "Yes, relatives can apply for B2 visas as caregivers with supporting documents."
+      }
+    ],
+    "premium": {
+      "hasPremium": true,
+      "teaser": "Family visit interview scripts and financial proof templates."
+    },
+    "tags": ["interview-required"],
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "code": "f1",
+    "name": "F1 — Academic Student",
+    "summary": "Full-time academic or language studies at accredited U.S. institutions.",
+    "purpose": ["study"],
+    "atAGlance": {
+      "eligibility": "Must have I-20 from SEVP-certified school and show funding for first year.",
+      "fee": "USD 185 + SEVIS I-901 fee",
+      "processing": "Interview plus SEVIS registration",
+      "validity": "Typically aligned with program length",
+      "entries": "Multiple"
+    },
+    "eligibility": [
+      "Receive acceptance and Form I-20 from SEVP-certified institution.",
+      "Demonstrate sufficient funds for tuition and living expenses.",
+      "Show intent to return home after studies.",
+      "Maintain academic preparation matching program level."
+    ],
+    "documents": {
+      "interview": [
+        "Passport and DS-160 confirmation.",
+        "SEVIS payment receipt (I-901).",
+        "Original I-20 signed by applicant and school.",
+        "Academic transcripts and standardized test scores.",
+        "Financial proof: bank statements, sponsor letters, scholarships."
+      ],
+      "forms": [
+        "DS-160 form.",
+        "Form I-20.",
+        "SEVIS I-901 receipt.",
+        "Affidavit of support if sponsored."
+      ]
+    },
+    "fees": [
+      { "name": "Application fee", "amount": 185, "currency": "USD" },
+      { "name": "SEVIS I-901", "amount": 350, "currency": "USD", "notes": "Required before interview" }
+    ],
+    "timelines": {
+      "average": "2–4 months",
+      "notes": "Plan early to align with program start. Administrative processing may extend timeline."
+    },
+    "steps": [
+      "Obtain I-20 and pay SEVIS fee.",
+      "Complete DS-160 and schedule appointments.",
+      "Gather financial and academic documentation.",
+      "Attend biometrics and visa interview.",
+      "Receive passport and review visa annotations.",
+      "Enter U.S. up to 30 days before program start."
+    ],
+    "interviewTips": [
+      "Explain program choice and career goals succinctly.",
+      "Show ties that ensure return after studies (family, career path).",
+      "Be ready to discuss funding sources in detail."
+    ],
+    "afterDenial": [
+      "Address funding shortfalls with clearer documentation.",
+      "Provide stronger evidence of academic preparedness or new acceptance letters.",
+      "Reapply with updated SEVIS fee receipt if needed."
+    ],
+    "faqs": [
+      {
+        "q": "Can I work on-campus?",
+        "a": "Yes, up to 20 hours per week during term once studies begin."
+      },
+      {
+        "q": "Do dependents need separate visas?",
+        "a": "Yes, spouse and children require F2 visas with proof of relationship and funds."
+      },
+      {
+        "q": "When can I apply for OPT?",
+        "a": "Eligible students may apply for Optional Practical Training after completing one academic year."
+      }
+    ],
+    "premium": {
+      "hasPremium": true,
+      "teaser": "Financial planning worksheets and visa officer Q&A library."
+    },
+    "tags": ["interview-required", "sevis"],
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "code": "j1",
+    "name": "J1 — Exchange Visitor",
+    "summary": "Cultural and educational exchange programs including trainees, researchers, and au pairs.",
+    "purpose": ["study", "exchange", "work"],
+    "atAGlance": {
+      "eligibility": "Requires DS-2019 from program sponsor and proof of sufficient funds.",
+      "fee": "USD 185 + SEVIS fee where applicable",
+      "processing": "Sponsor approval then visa interview",
+      "validity": "Matches program dates",
+      "entries": "Single or multiple depending on sponsor"
+    },
+    "eligibility": [
+      "Accepted into a designated exchange visitor program.",
+      "Meet specific category requirements (trainee, scholar, au pair).",
+      "Show funding and health insurance meeting U.S. regulations.",
+      "Intend to return home after program per 212(e) home residency rules if applicable."
+    ],
+    "documents": {
+      "interview": [
+        "Passport, DS-160, and DS-2019 signed by sponsor.",
+        "Proof of SEVIS payment if required.",
+        "Evidence of financial support (stipends, savings, sponsor letter).",
+        "Program-specific documents (training plan DS-7002, offer letters).",
+        "Proof of medical insurance coverage meeting minimum requirements."
+      ],
+      "forms": [
+        "DS-160.",
+        "DS-2019 form.",
+        "DS-7002 for trainee/intern categories.",
+        "SEVIS fee receipt where applicable."
+      ]
+    },
+    "fees": [
+      { "name": "Application fee", "amount": 185, "currency": "USD" },
+      { "name": "SEVIS I-901 (most categories)", "amount": 220, "currency": "USD" }
+    ],
+    "timelines": {
+      "average": "2–5 months",
+      "notes": "Timeframe depends on sponsor document issuance and embassy availability."
+    },
+    "steps": [
+      "Secure program sponsorship and receive DS-2019.",
+      "Pay SEVIS fee if required and complete DS-160.",
+      "Schedule CASV and embassy interview appointments.",
+      "Prepare program documents and insurance proof.",
+      "Attend biometrics and visa interview.",
+      "Collect passport and review visa annotations including 212(e) notice."
+    ],
+    "interviewTips": [
+      "Describe how the exchange fits long-term goals in home country.",
+      "Carry sponsor contact and emergency information.",
+      "Highlight cultural exchange components, not just work duties."
+    ],
+    "afterDenial": [
+      "Review whether funding or program clarity was insufficient.",
+      "Coordinate with sponsor to address concerns or issue updated documents.",
+      "Consider alternative program dates if appointment timing caused delays."
+    ],
+    "faqs": [
+      {
+        "q": "What is the two-year home residency requirement?",
+        "a": "Certain J1 categories must return home for two years before applying for H/L immigrant visas or status changes unless they obtain a waiver."
+      },
+      {
+        "q": "Can I change employers on J1 trainee?",
+        "a": "Only with sponsor approval and updated DS-2019/DS-7002 documentation."
+      },
+      {
+        "q": "Do J2 dependents need separate SEVIS fees?",
+        "a": "No, but they must obtain J2 visas and carry proof of funds and relationship."
+      }
+    ],
+    "premium": {
+      "hasPremium": true,
+      "teaser": "Sponsor communication templates and 212(e) waiver walkthroughs."
+    },
+    "tags": ["interview-required", "sevis", "sponsor"],
+    "lastUpdated": "2025-10-01"
+  }
+]
