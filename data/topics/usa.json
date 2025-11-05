@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ds160-basics",
+    "title": "How to complete the DS-160 without errors",
+    "summary": "Step-by-step tips to avoid common DS-160 mistakes and keep your confirmation barcode valid.",
+    "slug": "ds160",
+    "lastUpdated": "2025-02-10"
+  },
+  {
+    "id": "interview-prep",
+    "title": "Interview preparation checklist",
+    "summary": "What to rehearse before facing the consular officer and how to communicate confidently.",
+    "slug": "interview-prep",
+    "lastUpdated": "2025-01-22"
+  },
+  {
+    "id": "common-mistakes",
+    "title": "Top mistakes that trigger 214(b) refusals",
+    "summary": "Learn how inconsistent answers, weak ties, and outdated documents lead to denials.",
+    "slug": "mistakes",
+    "lastUpdated": "2025-03-01"
+  },
+  {
+    "id": "ties-to-home",
+    "title": "Proving strong ties to your home country",
+    "summary": "Financial, professional, and family evidence that reassure consular officers.",
+    "slug": "ties",
+    "lastUpdated": "2025-02-05"
+  },
+  {
+    "id": "photo-specs",
+    "title": "Visa photo requirements",
+    "summary": "Meet U.S. Department of State photo standards to avoid DS-160 rejections.",
+    "slug": "photo",
+    "lastUpdated": "2025-01-10"
+  },
+  {
+    "id": "processing-times",
+    "title": "Understanding visa processing times",
+    "summary": "Typical interview wait times in Brazil and how to monitor expedited slots.",
+    "slug": "processing",
+    "lastUpdated": "2025-03-05"
+  },
+  {
+    "id": "status-tracking",
+    "title": "Tracking your visa status after the interview",
+    "summary": "Use CEAC status updates and courier notifications to anticipate passport delivery.",
+    "slug": "status",
+    "lastUpdated": "2025-02-18"
+  },
+  {
+    "id": "after-denial",
+    "title": "What to do after a visa denial",
+    "summary": "Steps to analyze refusal slips, gather stronger evidence, and plan the next attempt.",
+    "slug": "after-denial",
+    "lastUpdated": "2025-02-28"
+  }
+]
